@@ -23,7 +23,7 @@ The dataset is available on Kaggle (Justinas Cirtautas: [NBA Players](https://ww
 ## Findings
 This dataset consists of  22 columns and 12844 observations and contains individual players multiple times due to the collection of their statistics every year.
 
-That's why we will split our analysis in two parts:
+That's why we will split our analysis into two parts:
 1. Analyzing the NBA over the years
 2. Transforming the dataset to represent NBA players average career stats
 
@@ -31,7 +31,7 @@ That's why we will split our analysis in two parts:
 These questions will guide our exploration and uncover insights into the dynamics of NBA players's performance over the years. 
 
 ### 1. What's the total number of NBA players over the years ?
-### 2. How is the NBA player's country distribution ?
+### 2. How many players are drafted each year ?
 ### 3. How does the Maximum Points per Game change over the years ?
 ### 4. How many NBA players performed at an All-Star level consistently ?
 ### 5. Which NBA players had/have the best scoring seasons in the last 25 years ?
