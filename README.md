@@ -12,7 +12,7 @@ The NBA is one of the most popular sports in the world. Top basketball players f
 In this analysis, we will explore the NBA from the 1996 season to 2023. Our analysis will focus on differences in key basketball metrics each year, as well as the players who stood/stand out during different periods.  
 
 ## Data Source
-The dataset is available on Kaggle (Justinas Cirtautas :[NBA Players](https://www.kaggle.com/datasets/justinas/nba-players-data/data)).   
+The dataset is available on Kaggle (Justinas Cirtautas: [NBA Players](https://www.kaggle.com/datasets/justinas/nba-players-data/data)).   
 
 ## Goals 
 - Explore and Analyze NBA players' performance data over the years.
