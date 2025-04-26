@@ -1,1 +1,12 @@
-# NBA-1996-2022-Stats-Analysis
+# The Evolution of the NBA 
+
+## Contents 
+
+## Background
+
+## Data Source
+
+## Goals 
+
+## Findings
+
