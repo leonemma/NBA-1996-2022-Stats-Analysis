@@ -30,14 +30,14 @@ That's why we will split our analysis into two parts:
 ## Key-Questions
 These questions will guide our exploration and uncover insights into the dynamics of NBA players's performance over the years. 
 
-### 1. What's the total number of NBA players over the years ?
-### 2. How many players are drafted each year ?
-### 3. How does the Maximum Points per Game change over the years ?
-### 4. How many NBA players performed at an All-Star level consistently ?
-### 5. Which NBA players had/have the best scoring seasons in the last 25 years ?
-### 6. Which NBA players were/are the most dominant in the last 25 years ?
-### 7. Which NBA players were/are the best playmakers and scorers in the last 25 years ?
-### 8. Which NBA players had/have the most impactful contributions to their teams ?
+#### 1. What's the total number of NBA players over the years ?
+#### 2. How many players are drafted each year ?
+#### 3. How does the Maximum Points per Game change over the years ?
+#### 4. How many NBA players performed at an All-Star level consistently ?
+#### 5. Which NBA players had/have the best scoring seasons in the last 25 years ?
+#### 6. Which NBA players were/are the most dominant in the last 25 years ?
+#### 7. Which NBA players were/are the best playmakers and scorers in the last 25 years ?
+#### 8. Which NBA players had/have the most impactful contributions to their teams ?
 
 
 
