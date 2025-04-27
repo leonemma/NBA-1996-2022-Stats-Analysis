@@ -19,7 +19,6 @@ The dataset is available on Kaggle (Justinas Cirtautas: [NBA Players](https://ww
 ## Goals 
 - Explore and Analyze NBA players' performance data over the years.
 - Answer Key Questions related to player stats, scoring trends, playmaking abilities, consistency and impact.
-- Identify Patterns in player performance such as the evolution of top scorers and dominant all-around players.
 - Visualize Insights through clear graphs to make data easily understandable.
   
 This dataset consists of 22 columns and 12844 observations and contains individual players multiple times due to the collection of their statistics every year.
